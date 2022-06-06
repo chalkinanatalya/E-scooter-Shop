@@ -15,7 +15,7 @@ const disabledScroll = () => {
     top: -${window.scrollY}px;
     left: 0;
     height: 100wh;
-    width: 100wv;
+    width: 100vw;
     padding-right: ${window.innerWidth = document.body.offsetWidth}px;
   `
 };
